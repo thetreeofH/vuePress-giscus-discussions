@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "Zichun'Blog",
   description: "vuepress-theme-hope 的演示",
 
-  base: "/",
+  base: "/hope/",
 
   theme,
 });
